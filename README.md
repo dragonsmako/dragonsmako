@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dragonsmako
-- 👀 I’m interested in all things Fullstack Web Development and Devops
+- 👀 I’m interested in all things Fullstack Development
 - 🌱 I’m currently learning React with Typescript and PHP with Symfony
 - ⚡ Fun fact: Australia is wider than the moon
 
