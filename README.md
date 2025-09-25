@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @dragonsmako
-- 👀 I’m interested in all things Fullstack Development
-- 🌱 I’m currently learning React with Typescript and PHP with Symfony
-- ⚡ Fun fact: Australia is wider than the moon
+Moin
+- 🍌 Bananas are berries, but strawberries are not.
 
 <!---
 dragonsmako/dragonsmako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
